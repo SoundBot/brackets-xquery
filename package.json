@@ -1,0 +1,12 @@
+{
+    "name": "soundbot.xquery",
+    "title": "XQuery",
+    "description": "XQuery language support and syntax highlighting.",
+    "homepage": "https://github.com/SoundBot/brackets-xquery",
+    "version": "1.0.0",
+    "author": "Oleksii Segeda <alseman@gmail.com> (https://github.com/SoundBot/brackets-xquery)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
